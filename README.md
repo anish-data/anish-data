@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anish 👋
 
-<!--
-**anish-data/anish-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (3rd Year)  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+## Skills
+- Python  
+- Pandas  
+- SQL (Learning)  
+- Excel (Learning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building strong data analytics projects and improving problem-solving skills.
+
+## Goal
+To become a professional Data Analyst and work internationally.
