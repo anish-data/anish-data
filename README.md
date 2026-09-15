@@ -1,6 +1,6 @@
 # Hi, I'm Anish 👋
 
-🎓 BTech CSE (3rd Year)  
+🎓 BTech CSE (4th Year)  
 📊 Aspiring Data Analyst  
 
 ## Skills
